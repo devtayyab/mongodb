@@ -21,12 +21,12 @@ dotenv.config();
         age: 24
       });
       const student2 = new Student({
-        name: "Daniyal",
-        age: 24
+        name: "gujjar",
+        age: 21
       });
       const student3 = new Student({
-        name: "Daniyal",
-        age: 24
+        name: "tayyab",
+        age: 22
       });
 
 
